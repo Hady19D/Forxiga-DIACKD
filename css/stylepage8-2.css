@@ -1,0 +1,317 @@
+.contaner {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.bg {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+.pic1 {
+    position: absolute;
+    width: 64%;
+    height: 91%;
+    top: 0%;
+    left: 17%;
+}
+
+.w {
+    position: absolute;
+    width: 42%;
+    height: 0%;
+    top: 37%;
+    left: 42%;
+    overflow: hidden;
+}
+
+.closebtn {
+    position: absolute;
+    top: 7.7%;
+    right: 6.1%;
+    width: 3%;
+    height: 4.2%;
+    display: none;
+    cursor: pointer;
+}
+
+.closebtn1 {
+    position: absolute;
+    top: 7.7%;
+    right: 6.1%;
+    width: 3%;
+    height: 4.2%;
+    display: none;
+    cursor: pointer;
+}
+
+.closebtn2 {
+    position: absolute;
+    top: 7.7%;
+    right: 6.1%;
+    width: 3%;
+    height: 4.2%;
+    display: none;
+    cursor: pointer;
+}
+
+.closebtn3 {
+    position: absolute;
+    top: 7.7%;
+    right: 6.1%;
+    width: 3%;
+    height: 4.2%;
+    display: none;
+    cursor: pointer;
+}
+
+.closebtn4 {
+    position: absolute;
+    top: 7.7%;
+    right: 6.1%;
+    width: 3%;
+    height: 4.2%;
+    display: none;
+    cursor: pointer;
+}
+
+.closebtn5 {
+    position: absolute;
+    top: 7.7%;
+    right: 6.1%;
+    width: 3%;
+    height: 4.2%;
+    display: none;
+    cursor: pointer;
+}
+
+.pibtn {
+    position: absolute;
+    top: 4%;
+    right: 2.7%;
+    width: 2%;
+    height: 2%;
+    cursor: pointer;
+}
+
+.homebtn {
+    position: absolute;
+    top: 3%;
+    right: 12.2%;
+    width: 3%;
+    height: 3.4%;
+    cursor: pointer;
+}
+
+.refbtn {
+    position: absolute;
+    top: 4%;
+    right: 7.2%;
+    width: 2%;
+    height: 2%;
+    cursor: pointer;
+}
+
+.refpic {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.sdbtn {
+    position: absolute;
+    top: 75.1%;
+    right: 0%;
+    width: 4%;
+    height: 4%;
+    cursor: pointer;
+}
+
+.sdbtn2 {
+    position: absolute;
+    top: 75.1%;
+    right: 3%;
+    width: 4%;
+    height: 4%;
+    cursor: pointer;
+    display: none;
+}
+
+.sdbtn3 {
+    position: absolute;
+    top: 75.1%;
+    right: 3%;
+    width: 4%;
+    height: 4%;
+    cursor: pointer;
+    display: none;
+}
+
+.sdbtn4 {
+    position: absolute;
+    top: 75.1%;
+    right: 0%;
+    width: 4%;
+    height: 4%;
+    cursor: pointer;
+    display: none;
+}
+
+
+.sdpic1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.sdpic2 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.sdpic3 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.addonpic1,
+.addonpic2,
+.addonpic3,
+.addonpic4 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.addonbtn1 {
+    position: absolute;
+    top: 49.5%;
+    right: 0%;
+    width: 9.6%;
+    height: 4.2%;
+    cursor: pointer;
+}
+
+.addonbtn2 {
+    position: absolute;
+    top: 54.5%;
+    right: 0%;
+    width: 9.7%;
+    height: 4.5%;
+    cursor: pointer;
+}
+
+.addonbtn3 {
+    position: absolute;
+    top: 59%;
+    right: 3%;
+    width: 9%;
+    height: 3%;
+    display: none;
+    cursor: pointer;
+}
+
+.addonbtn4 {
+    position: absolute;
+    top: 62.2%;
+    right: 3%;
+    width: 9%;
+    height: 3%;
+    display: none;
+    cursor: pointer;
+}
+
+.btn1 {
+    position: absolute;
+    bottom: 0%;
+    left: 11.6%;
+    width: 8.3%;
+    height: 4.2%;
+    cursor: pointer;
+}
+
+.btn2 {
+    position: absolute;
+    bottom: 0%;
+    left: 20.3%;
+    width: 8%;
+    height: 4.2%;
+    cursor: pointer;
+}
+
+.btn3 {
+    position: absolute;
+    bottom: 0%;
+    left: 28.7%;
+    width: 8.3%;
+    height: 4.3%;
+    cursor: pointer;
+}
+
+.btn4 {
+    position: absolute;
+    bottom: 0%;
+    left: 37.3%;
+    width: 8.2%;
+    height: 4.3%;
+    cursor: pointer;
+}
+
+.btn5 {
+    position: absolute;
+    bottom: 0%;
+    left: 45.8%;
+    width: 8.3%;
+    height: 4.3%;
+    cursor: pointer;
+}
+
+.btn6 {
+    position: absolute;
+    bottom: 0%;
+    left: 54.4%;
+    width: 7.9%;
+    height: 4.2%;
+    cursor: pointer;
+}
+
+.btn7 {
+    position: absolute;
+    bottom: 0%;
+    left: 63%;
+    width: 8.3%;
+    height: 4.3%;
+    cursor: pointer;
+}
+
+.btn8 {
+    position: absolute;
+    bottom: 0%;
+    left: 73.2%;
+    width: 6%;
+    height: 4.4%;
+    cursor: pointer;
+}

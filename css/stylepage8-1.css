@@ -1,0 +1,48 @@
+.contaner {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.addonpic {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+.sdpic {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.closebtn {
+    position: absolute;
+    top: 7.6%;
+    right: 6.2%;
+    width: 3%;
+    height: 4%;
+}
+
+.addonbtn {
+    position: absolute;
+    top: 54.6%;
+    right: 3%;
+    width: 9.5%;
+    height: 4.5%;
+}
+
+.sdbtn {
+    position: absolute;
+    top: 75%;
+    right: 3%;
+    width: 4%;
+    height: 4%;
+}
